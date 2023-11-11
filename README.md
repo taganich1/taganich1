@@ -16,7 +16,7 @@
  Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anton-shvetsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anton-shvetsdev" height=30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anton.shvetsdev@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180715/atz/kisspng-email-computer-icons-icon-design-message-letter-newspaper-5b4c06a22eae39.2768845415317090901912.jpg"  height="30" width="30" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anton.shvetsdev@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-google-mail-gmail-logo-logotype-7.png"  height="30" width="30" /></a>
 
 </p>
 
