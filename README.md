@@ -6,7 +6,6 @@
 
 - 📚 Also study at <a href="https://www.ovgu.de/" target="blank" ><img align="top" src="https://cdn.freebiesupply.com/logos/large/2x/otto-von-guericke-universitat-magdeburg-logo-png-transparent.png" height="20" width="20" /></a>OvGU
 
-- 💼 Know about my experiences in my [resume](https://drive.google.com/file/d/1evXd4__FVfnigwUWxnNhQD9J6HD22jyE/view?usp=sharing)
 
 - 👨‍💻 Link to my [portfolio](https://www.linkedin.com/feed/)
 
