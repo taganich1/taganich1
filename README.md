@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*e-CnQ3XcOSjznpnBhMXQKg.gif"/>
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif"/>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40" height="40"/>, I'm Anton Shvets</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
