@@ -7,7 +7,7 @@
 - 📚 Also study at <a href="https://www.ovgu.de/" target="blank" ><img align="top" src="https://cdn.freebiesupply.com/logos/large/2x/otto-von-guericke-universitat-magdeburg-logo-png-transparent.png" height="20" width="20" /></a>OvGU
 
 
-- 👨‍💻 Link to my [portfolio](https://www.linkedin.com/feed/)
+- 👨‍💻 Link to my [portfolio](https://antonshvets.dev/)
 
 - 📫 How to reach me **anton.shvetsdev@gmail.com**
 
