@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40" height="40"/>, I'm Anton Shvets</h1>
 <h3 align="center">A software developer from Ukraine</h3>
 
-- 📚 Study at <a href="https://www.ovgu.de/" target="blank" ><img align="top" src="https://cdn.freebiesupply.com/logos/large/2x/otto-von-guericke-universitat-magdeburg-logo-png-transparent.png" height="20" width="20" /></a>OvGU
+- 📚 Finished my Master at <a href="https://www.ovgu.de/" target="blank" ><img align="top" src="https://cdn.freebiesupply.com/logos/large/2x/otto-von-guericke-universitat-magdeburg-logo-png-transparent.png" height="20" width="20" /></a>OvGU
 
 
 - 👨‍💻 Link to my [portfolio](https://antonshvets.dev/)
